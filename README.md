@@ -30,10 +30,3 @@ Me chamo Matheus Penteado de Barros Pantojo, tenho 19 anos e sou natural de São
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=penteado012&theme=tokyonight&layout=compact&langs_count=9" 
   />
 </p>
-
-
-<img 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=penteado012&theme=tokyonight&layout=compact&langs_count=10"
-/>
-
